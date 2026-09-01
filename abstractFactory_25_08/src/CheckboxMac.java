@@ -1,0 +1,6 @@
+public class CheckboxMac implements Checkbox {
+    @Override
+    public void exibir() {
+        System.out.println("Exibindo checkbox do Mac.");
+    }
+}
