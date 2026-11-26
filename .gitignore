@@ -1,3 +1,5 @@
 *.class
 out/
 bin/
+node_modules/
+dist/
